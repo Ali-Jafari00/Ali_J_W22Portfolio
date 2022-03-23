@@ -6,9 +6,9 @@ import {FaGithub} from 'react-icons/fa'
 const footer = () => {
   return (
     <footer>
-       <a href="#" className='footer__logo'>Ali</a>
+       <a href="/#" className='footer__logo'>Ali</a>
        <ul className='parmalinks'>
-         <li><a href="#">Home</a></li>
+         <li><a href="/#">Home</a></li>
          <li><a href="#about">About</a></li>
          <li><a href="#experience">Experience</a></li>
          <li><a href="#services">Services</a></li>
